@@ -13,10 +13,10 @@
         android:theme="@style/Theme._23012011105_mad_Prac3">
         <activity
             android:name=".RegisterActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LoginActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
