@@ -92,7 +92,7 @@ Below are example screenshots demonstrating app functionalities:
 <p float="left">
   <img src="app/Practical-3 ss/img1.png" alt="Main Activity with buttons" width="300"/>
   <img src="app/Practical-3 ss/img2.png" alt="Login Activity" width="300"/>
-  <img src="C:\Users\hp\OneDrive\画像\Screenshots\Screenshot 2025-08-26 085719.png" alt="Register Activity" width="300"/>
+  <img src="app/Practical-3 ss/img3.png" alt="Register Activity" width="300"/>
 </p>
 
 ---
